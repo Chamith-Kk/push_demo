@@ -11,6 +11,12 @@ def print_hi(name):
 def print_fuck_off(name):
     print('Fuck Off',{name})
 
+def print_shit():
+    print("Well shit boy")
+
+print_shit()
+print("Ok. Now you've made an update");
+
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
